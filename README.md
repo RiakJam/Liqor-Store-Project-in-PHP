@@ -1,1 +1,1 @@
-This project is free. You can view the download at any time
+Download the files, create different folders for css, javascrip in the main folder, create a database and import the database. Then run it
